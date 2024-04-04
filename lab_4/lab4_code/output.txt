@@ -1,0 +1,70 @@
+Initial head position = 0
+Total head movement for FCFS: 1601924
+Total head movement for SSTF: 4999
+Total head movement for SCAN: 4999
+Total head movement for C-SCAN: 9998
+Total head movement for LOOK: 4999
+Total head movement for C-LOOK: 4999
+Initial head position = 500
+Total head movement for FCFS: 1699802
+Total head movement for SSTF: 9519
+Total head movement for SCAN: 5499
+Total head movement for C-SCAN: 9996
+Total head movement for LOOK: 9493
+Total head movement for C-LOOK: 9986
+Initial head position = 1000
+Total head movement for FCFS: 1667085
+Total head movement for SSTF: 5990
+Total head movement for SCAN: 5994
+Total head movement for C-SCAN: 9996
+Total head movement for LOOK: 8984
+Total head movement for C-LOOK: 9978
+Initial head position = 1500
+Total head movement for FCFS: 1651311
+Total head movement for SSTF: 6483
+Total head movement for SCAN: 6491
+Total head movement for C-SCAN: 9997
+Total head movement for LOOK: 8478
+Total head movement for C-LOOK: 9973
+Initial head position = 2000
+Total head movement for FCFS: 1616131
+Total head movement for SSTF: 7970
+Total head movement for SCAN: 6988
+Total head movement for C-SCAN: 9982
+Total head movement for LOOK: 7970
+Total head movement for C-LOOK: 9948
+Initial head position = 2500
+Total head movement for FCFS: 1681637
+Total head movement for SSTF: 7485
+Total head movement for SCAN: 7485
+Total head movement for C-SCAN: 9993
+Total head movement for LOOK: 7470
+Total head movement for C-LOOK: 9965
+Initial head position = 3000
+Total head movement for FCFS: 1595804
+Total head movement for SSTF: 6980
+Total head movement for SCAN: 7991
+Total head movement for C-SCAN: 9991
+Total head movement for LOOK: 6980
+Total head movement for C-LOOK: 9971
+Initial head position = 3500
+Total head movement for FCFS: 1653791
+Total head movement for SSTF: 8493
+Total head movement for SCAN: 8493
+Total head movement for C-SCAN: 9994
+Total head movement for LOOK: 6485
+Total head movement for C-LOOK: 9980
+Initial head position = 4000
+Total head movement for FCFS: 1606829
+Total head movement for SSTF: 5970
+Total head movement for SCAN: 8993
+Total head movement for C-SCAN: 9992
+Total head movement for LOOK: 5970
+Total head movement for C-LOOK: 9948
+Initial head position = 4500
+Total head movement for FCFS: 1719093
+Total head movement for SSTF: 9455
+Total head movement for SCAN: 9491
+Total head movement for C-SCAN: 9995
+Total head movement for LOOK: 5464
+Total head movement for C-LOOK: 9943
